@@ -492,6 +492,6 @@
         "description": "Train an agent to play Atari Games using Reinforcement Learning",
         "language": ["Python"],
         "type": ["Recipe"],
-        "dataadded": "05/05/2017"
+        "dataadded": "5/5/2017"
     }
 ]
